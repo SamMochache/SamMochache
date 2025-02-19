@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Data Analysis, DevSecOps
 - 📫 How to reach me ...sammochache01@gmail.com/ +254740532120
 - 😄 Pronouns: ... pip install He.Him
-- ⚡ Fun fact: ... I know how to draw, really good you'de be surprised. / I spend 4hours continuously programming and when I
-  encounter issues i delete the whole repository and start afresh
+- ⚡ Fun fact: ... I know how to draw, really good you'de be surprised. / Dogs and Bees are the only animals in the world that smell fear.
 
 <!---
 SamMochache/SamMochache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
